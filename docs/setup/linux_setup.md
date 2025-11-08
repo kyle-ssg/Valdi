@@ -48,6 +48,8 @@ Under **SDK Platforms**, install **API level 35**.
 
 Under **SDK Tools**, uncheck `Hide obsolete packages` check `Show Package Details`
 
+Install **Android SDK Command-line Tools (latest)**.
+
 Install build tools **version 34.0.0**.
 
 Install ndk version **25.2.9519653**
